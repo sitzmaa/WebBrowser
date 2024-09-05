@@ -1,4 +1,4 @@
-# hstlWebBrowser
+# WebBrowser
 Source code for the hstl web browser
 
 ## Project Goals
@@ -8,10 +8,10 @@ Source code for the hstl web browser
 
 ### Defining Lightweight
 
-- The HSTL Browser will run on architecture as small as a raspberry pi and will include features to optimize performance on multiple systems
-- HSTL will be of a relatively small file size
+- The browser will run on architecture as small as a raspberry pi and will include features to optimize performance on multiple systems
+- browser will be of a relatively small file size
 
 ### Core features
 
-- HSTL will open and view HTML websites
-- HSTL will provide inspect elements features
+- browser will open and view HTML websites
+- browser will provide inspect elements features
