@@ -1,10 +1,10 @@
 # WebBrowser
-Source code for the hstl web browser
+Source code for the web browser
 
 ## Project Goals
 
 - Create a lightweight web browser and file viewer
-- hstl browser will function to acceptable parameters on Windows, MacOS and Linux environments
+- browser will function to acceptable parameters on Windows, MacOS and Linux environments
 
 ### Defining Lightweight
 
